@@ -1,0 +1,16 @@
+{
+    "name": "@crowdui/button",
+    "version": "0.0.1",
+    "private": true,
+    "description": "A custom button component",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": [
+        "button",
+        "component"
+    ],
+    "author": "zhanghengxin",
+    "license": "MIT"
+}
